@@ -28,7 +28,7 @@ Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenv
 <br>
 <div align="center" >
   
-  [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,github,vscode)](https://skillicons.dev)
+![Snake animation] (VictorrMendes)
 
   ##
  
@@ -40,7 +40,7 @@ Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenv
   
 
 
-![snake gif](https://github.com/VictorrMendes/VictorrMendes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/VictorrMendes/VictorrMendes/output/github-contribution-grid-snake-dark.svg) 
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
