@@ -1,6 +1,6 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Victor!;" />
-</h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F)](https://git.io/typing-svg)</h1>
 
 Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenvolvedor. Atualmente, estou dedicado aos estudos na faculdade de Ciências da Computação, vislumbrando a realização de projetos grandiosos e conquistas significativas neste vasto campo. Estou constantemente buscando novos conhecimentos para aplicar em prática, impulsionando assim o meu crescimento pessoal e profissional.
 
@@ -27,12 +27,15 @@ Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenv
   <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  
-![Snake animation] (VictorrMendes)
+  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,vscode,github,figma,git" />
+</div>
 
-  ##
- 
+   <br/>
+   
+ <h1 align="Center">
 <div> 
+  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55+31+998186472)
   <a href="https://instagram.com/victor_mendes_of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victo.mendes.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/victor-mendes-de-souza-728270234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,9 +43,11 @@ Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenv
   
 
 
-![Snake animation](https://raw.githubusercontent.com/VictorrMendes/VictorrMendes/output/github-contribution-grid-snake-dark.svg) 
+<div>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
+<h1 align="Center">
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!)](https://git.io/typing-svg)
+
+ </div>
+
