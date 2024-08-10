@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F)](https://git.io/typing-svg)</h1>
 
-Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenvolvedor. Atualmente, estou dedicado aos estudos na faculdade de Ciências da Computação, vislumbrando a realização de projetos grandiosos e conquistas significativas neste vasto campo. Estou constantemente buscando novos conhecimentos para aplicar em prática, impulsionando assim o meu crescimento pessoal e profissional.
+Sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenvolvedor. Atualmente, estou dedicado aos estudos na faculdade de Ciências da Computação, sonhando com a realização de projetos grandiosos e conquistas significativas. Estou constantemente buscando novos conhecimentos para aplicar em prática, impulsionando assim o meu crescimento pessoal e profissional.
 
 👨‍🎓Formação Acadêmica:
 
@@ -18,7 +18,7 @@ Eu sou um entusiasta apaixonado por tecnologia embarcando na jornada como Desenv
 🧑‍💻Objetivos Profissionais:
 
 - Adquirir experiência prática em desenvolvimento de software
-- Ampliar conhecimentos em tecnologias de front-end e bano de dados
+- Ampliar conhecimentos em tecnologias de front-end e banco de dados
 
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrMendes&theme=aura&show_icons=true)
