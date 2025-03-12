@@ -23,18 +23,23 @@ Bem-vindo ao meu portfólio! Sou Victor Mendes de Souza, um entusiasta da tecnol
 - Python
 - Django
 - React
+- MySQL
+- Figma
+- Canva
+- Linux
 - SAP
 - Excel
 
 🧑‍💻Objetivos Profissionais:
 
 - Desenvolver experiência prática em criação e manutenção de software e aplicações web, primorando habilidades técnicas e entregando soluções de alta qualidade.
-- Expandir conhecimentos em tecnologias de front-end e automação de processos, aplicando inovação para otimizar sistemas e melhorar a experiência do usuário.
-
+- Expandir conhecimentos em tecnologias de front-end, back-end e automação de processos, aplicando inovação para otimizar sistemas e melhorar a experiência do usuário.
+##
+  ° <div align="center" >
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrMendes&theme=aura&show_icons=true)
+    </div>  
+  
   ##
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrMendes&theme=aura&show_icons=true)
-  ##
-
   <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
