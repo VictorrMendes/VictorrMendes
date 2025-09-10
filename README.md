@@ -1,69 +1,115 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=435&lines=Frontend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg) 
 </h1>
 
-Bem-vindo ao meu portfólio! Sou Victor Mendes de Souza, um entusiasta da tecnologia com experiência em desenvolvimento de softwares, aplicações web, automação de processos e análise de dados. Minha trajetória é marcada pela busca constante por aprendizado e pela dedicação em criar soluções eficientes e inovadoras. Aqui, você encontrará projetos que refletem meu compromisso com a qualidade e minha paixão por resolver desafios. Sinta-se à vontade para explorar e conhecer mais sobre meu trabalho!
+## 🚀 Sobre Mim
 
-### ![retomar](https://github.com/user-attachments/assets/da6450dd-bc45-420f-9b01-f311f49231c9) Portfólio:
-*  [Portfólio](https://victor-mendes.netlify.app)
-  
-###  ![linkedin](https://github.com/user-attachments/assets/ba6279a0-e80b-4766-a5e8-719013c9574c) LinkedIn:
+Bem-vindo ao meu portfólio! Sou **Victor Mendes de Souza**, desenvolvedor Frontend com experiência em **React**, **JavaScript** e desenvolvimento de interfaces modernas. Atualmente trabalho na **Next Rental** como Analista de Operações, onde desenvolvo automações e interfaces que otimizam processos empresariais.
+
+Minha paixão é criar experiências digitais intuitivas e funcionais, combinando design responsivo com código limpo e eficiente. Aqui você encontrará projetos que demonstram minha evolução como desenvolvedor Frontend!
+
+---
+
+## 🔗 Links Importantes
+
+### ![retomar](https://github.com/user-attachments/assets/da6450dd-bc45-420f-9b01-f311f49231c9) **Portfólio Online:**
+*  [victor-mendes.netlify.app](https://victor-mendes.netlify.app)
+
+### ![linkedin](https://github.com/user-attachments/assets/ba6279a0-e80b-4766-a5e8-719013c9574c) **LinkedIn:**
 *  [Victor Mendes](https://www.linkedin.com/in/victor-mendes-de-souza-728270234/)
 
-👨‍🎓 Formação Acadêmica:
+---
 
-- Faculdade de Ciências da Computação (em andamento)
+## 🎓 **Formação & Certificações Frontend**
 
-💻 Habilidades Técnicas:
+**Graduação:**
+- **Ciências da Computação** - Universidade Anhembi Morumbi (2024-2028)
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Django
-- React
-- MySQL
-- Figma
-- Canva
-- Linux
-- SAP
-- Excel
+**Certificações Especializadas:**
+- **React: Desenvolvendo com JavaScript** - Alura (2025)
+- **Imersão Front-End 2ª Edição** - Alura (2025)  
+- **JavaScript: Construindo páginas dinâmicas** - Alura (2025)
+- **Django: Templates e boas práticas** - Alura (2025)
+- **Git e GitHub** - DIO (2025)
 
-🧑‍💻 Objetivos Profissionais:
+## 💻 **Stack Frontend**
 
-- Desenvolver experiência prática em criação e manutenção de software e aplicações web, primorando habilidades técnicas e entregando soluções de alta qualidade.
-- Expandir conhecimentos em tecnologias de front-end, back-end e automação de processos, aplicando inovação para otimizar sistemas e melhorar a experiência do usuário.
-##
-  ° <div align="center" >
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrMendes&theme=aura&show_icons=true)
-    </div>  
+**Core Technologies:**
+- **JavaScript (ES6+)** - Desenvolvimento moderno
+- **React.js** - Biblioteca para interfaces
+- **HTML5 & CSS3** - Estrutura e estilização
+- **Git/GitHub** - Versionamento de código
+
+**Ferramentas & Design:**
+- **Figma** - Prototipagem e design
+- **Responsive Design** - Mobile-first approach
+- **DOM Manipulation** - JavaScript vanilla
+
+**Complementares:**
+- **Django Templates** - Backend integration
+- **Linux** - Ambiente de desenvolvimento
+- **Docker** - Containerização
+
+## 🌟 **Projetos em Destaque**
+
+- 🏢 **Site Empresarial de E-commerce**
+  - React Native com infraestrutura completa
+  - Configuração de domínio, DNS e email comercial
+  - Design responsivo e otimizado para conversão
+
+- 💻 **Plataforma de Vendas Personalizadas**
+  - HTML5, CSS3 e JavaScript
+  - Interface focada em UX/UI
+  - Sistema de navegação intuitivo
+
+- 🤖 **Interface para Automação**
+  - Python + Interface web
+  - Redução de 80% no tempo de processos
+  - Design centrado no usuário
+
+## 🎯 **Foco Profissional Frontend**
+
+- Especializar em **React.js** e ecossistema moderno
+- Desenvolver expertise em **UX/UI Design** e acessibilidade
+- Criar **componentes reutilizáveis** e bibliotecas próprias
+- Dominar **performance optimization** e boas práticas
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
   
-  ##
-  <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-<br>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,vscode,github,figma,git" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrMendes&theme=aura&show_icons=true)
+  
 </div>
 
-   <br/>
-   
- <h1 align="Center">
-<div> 
+---
+
+<h2 align="center">⚒️ Frontend Stack ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,git,github,figma,vscode" />
+</div>
+
+---
+
+## 📫 **Vamos Conversar?**
+
+<div align="center">
   
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531998186472)
-  <a href="https://instagram.com/victor_mendes_of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victo.mendes.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-de-souza-728270234/)
-
-  </div>
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victor_mendes_of)
+  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victo.mendes.souza@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-de-souza-728270234/)
   
+</div>
 
+---
 
-<div>
-
-<h1 align="Center">
+<h1 align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!)](https://git.io/typing-svg)
-
- </div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7638F7&random=false&width=500&lines=Pronto+para+criar+interfaces+incr%C3%ADveis+%21+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+</h1>
