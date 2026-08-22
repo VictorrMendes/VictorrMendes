@@ -10,9 +10,9 @@
 
 ## `// ABOUT THE PLAYER`
 
-Minha jornada começou na logística, onde aprendi a lidar com processos, otimização e análise de dados. Sempre fui movido por desafios e pela busca por eficiência, o que naturalmente me levou ao desenvolvimento web e à automação de processos.
+Sempre fui movido por desafios e pela busca por eficiência, o que naturalmente me levou ao desenvolvimento web e à automação de processos.
 
-Hoje trabalho na **Next Rental** como Analista de Operações, desenvolvendo automações e interfaces que otimizam processos empresariais. Em paralelo, trabalho como freelancer **Front-End (React, Next.js, TypeScript)** e na construção de integrações sólidas no **Back-End (Python, Django)**.
+Hoje trabalho na **Franq** como Analista Desenvolvedor de Software Fullstack, desenvolvendo automações e interfaces que otimizam processos empresariais. Em paralelo, trabalho como freelancer **Front-End (React, Next.js, TypeScript)** e na construção de integrações sólidas no **Back-End (Python, Django)**.
 
 Sou também um entusiasta de **Self-Hosted, DevOps e Inteligência Artificial** — tenho um Home Lab rodando 24/7 orquestrando automações com IA local, e acho esse tipo de desafio tão viciante quanto zerar um jogo difícil.
 
