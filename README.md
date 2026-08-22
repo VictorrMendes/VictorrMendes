@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=VICTOR%20MENDES&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Developer%20%7C%20Player%201%20Ready_&descSize=14&descAlignY=70&descColor=c77dff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=VICTOR%20MENDES&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20Player%201%20Ready_&descSize=14&descAlignY=70&descColor=c77dff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=9D4EDD&center=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Self-Hosted+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Gamer+%7C+Pixel+Art+Lover+%F0%9F%8E%AE;PLAYER+1+READY_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=9D4EDD&center=true&width=500&lines=Fullstack+Developer+%E2%9A%A1;Self-Hosted+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Gamer+%7C+Pixel+Art+Lover+%F0%9F%8E%AE;PLAYER+1+READY_)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 Sempre fui movido por desafios e pela busca por eficiência, o que naturalmente me levou ao desenvolvimento web e à automação de processos.
 
-Hoje trabalho na **Franq** como Analista Desenvolvedor de Software Fullstack, desenvolvendo automações e interfaces que otimizam processos empresariais. Em paralelo, trabalho como freelancer **Front-End (React, Next.js, TypeScript)** e na construção de integrações sólidas no **Back-End (Python, Django)**.
+Hoje trabalho na **Franq** como Analista Desenvolvedor de Software Fullstack, desenvolvendo automações e interfaces que otimizam processos empresariais. Em paralelo, atuo como freelancer **Fullstack (React, Next.js, TypeScript, Python, Django)**, construindo aplicações e integrações de ponta a ponta.
 
 Sou também um entusiasta de **Self-Hosted, DevOps e Inteligência Artificial** — tenho um Home Lab rodando 24/7 orquestrando automações com IA local, e acho esse tipo de desafio tão viciante quanto zerar um jogo difícil.
 
@@ -41,10 +41,14 @@ Cresci jogando RPG e pixel art. Não é à toa que meu portfólio tem cara de vi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **DevOps · Infra · Automação**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4560?style=flat-square&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -64,8 +68,6 @@ Cresci jogando RPG e pixel art. Não é à toa que meu portfólio tem cara de vi
 | 📜 JavaScript: Construindo páginas dinâmicas | Alura | 2025 |
 | 🐍 Django: Templates e boas práticas | Alura | 2025 |
 | 🌿 Git e GitHub | DIO | 2025 |
-| 🐧 Linux Professional | Certificação | 2025 |
-| 🔌 Arquitetura de Redes | Certificação | 2025 |
 
 ---
 
@@ -73,8 +75,9 @@ Cresci jogando RPG e pixel art. Não é à toa que meu portfólio tem cara de vi
 
 - Aprofundar expertise no ecossistema **React.js** e componentes escaláveis
 - Desenvolver arquiteturas híbridas unindo **Front-End** a fluxos de **Automação (n8n / IA)**
+- Evoluir em **Python / Django** e boas práticas de **APIs REST** e modelagem de dados
 - Evoluir em **UX/UI Design**, acessibilidade e performance optimization
-- Dominar boas práticas de segurança e consumo de **APIs complexas**
+- Expandir **DevOps / Self-Hosted**: Docker, AWS e automação de infraestrutura
 
 ---
 
