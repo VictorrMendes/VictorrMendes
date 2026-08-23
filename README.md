@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=VICTOR%20MENDES&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20Player%201%20Ready_&descSize=14&descAlignY=70&descColor=c77dff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=VICTOR%20MENDES&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=&descSize=14&descAlignY=70&descColor=c77dff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=9D4EDD&center=true&width=500&lines=Fullstack+Developer+%E2%9A%A1;Self-Hosted+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Gamer+%7C+Pixel+Art+Lover+%F0%9F%8E%AE;PLAYER+1+READY_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=9D4EDD&center=true&width=500&lines=Fullstack+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
