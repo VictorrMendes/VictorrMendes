@@ -10,13 +10,9 @@
 
 ## `// ABOUT THE PLAYER`
 
-Sempre fui movido por desafios e pela busca por eficiência, o que naturalmente me levou ao desenvolvimento web e à automação de processos.
+Sou desenvolvedor fullstack com experiência em React, Next.js, TypeScript, Python e Django. Atuo do front/mobile ao back-end, criando aplicações web, APIs e automações de ponta a ponta. Tenho boa visão de produto e gosto de resolver problema com código e ver o resultado real, meu foco é entregar soluções eficientes, escaláveis e bem estruturadas.
 
-Hoje trabalho na **Franq** como Analista Desenvolvedor de Software Fullstack, desenvolvendo automações e interfaces que otimizam processos empresariais. Em paralelo, atuo como freelancer **Fullstack (React, Next.js, TypeScript, Python, Django)**, construindo aplicações e integrações de ponta a ponta.
-
-Sou também um entusiasta de **Self-Hosted, DevOps e Inteligência Artificial** — tenho um Home Lab rodando 24/7 orquestrando automações com IA local, e acho esse tipo de desafio tão viciante quanto zerar um jogo difícil.
-
-Cresci jogando RPG e pixel art. Não é à toa que meu portfólio tem cara de videogame dos anos 90. **Cada projeto é uma quest. Cada stack, um item no inventário.**
+Hoje atuo na **Franq** (fintech) como Analista Desenvolvedor de Software fullstack. Também sou entusiasta de self-hosted, DevOps e IA.
 
 🌐 **Portfólio:** [vmstorm.com.br](https://www.vmstorm.com.br)
 💼 **LinkedIn:** [Victor Mendes de Souza](https://www.linkedin.com/in/victor-mendes-de-souza-728270234/)
@@ -58,23 +54,17 @@ Cresci jogando RPG e pixel art. Não é à toa que meu portfólio tem cara de vi
 ---
 
 
-## `// FORMAÇÃO · CERTS`
+## `// FORMAÇÃO `
 
 | Quest | Instituição | Ano |
 |-------|-------------|-----|
 | 🎓 Ciência da Computação | Universidade Anhembi Morumbi | 2024 → 2028 |
-| ⚛️ React: Desenvolvendo com JavaScript | Alura | 2025 |
-| 🌐 Imersão Front-End 2ª Edição | Alura | 2025 |
-| 📜 JavaScript: Construindo páginas dinâmicas | Alura | 2025 |
-| 🐍 Django: Templates e boas práticas | Alura | 2025 |
-| 🌿 Git e GitHub | DIO | 2025 |
 
 ---
 
 ## `// FOCO PROFISSIONAL`
 
 - Aprofundar expertise no ecossistema **React.js** e componentes escaláveis
-- Desenvolver arquiteturas híbridas unindo **Front-End** a fluxos de **Automação (n8n / IA)**
 - Evoluir em **Python / Django** e boas práticas de **APIs REST** e modelagem de dados
 - Evoluir em **UX/UI Design**, acessibilidade e performance optimization
 - Expandir **DevOps / Self-Hosted**: Docker, AWS e automação de infraestrutura
